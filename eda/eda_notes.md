@@ -25,5 +25,5 @@ Consider the budgeted amount versus actual spending as a metric. Projects that s
 
 ### Project Description and Project Type
 
-Certain types of projects or descriptions might have higher failure rates. Analyzing patterns in these attributes can help identify risk factors.
+Certain types of projects or descriptions might have higher failure rates. Analysing patterns in these attributes can help identify risk factors.
 
